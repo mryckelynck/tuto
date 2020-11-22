@@ -36,3 +36,10 @@ Route::get('/val', function () {
 Route::fallback(function() {
    return view('404'); // la vue
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/docs', 'DocsController@index')->name('docs');
+Route::get('/profil/{id}', 'ProfilController@edit')->name('profil_edit');
+Route::post('/profil/save', 'ProfilController@save')->name('profil_save');

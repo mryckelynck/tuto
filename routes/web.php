@@ -32,3 +32,7 @@ Route::get('/mick', function () {
 Route::get('/val', function () {
     return view('val');
 });
+
+Route::fallback(function() {
+   return view('404'); // la vue
+});

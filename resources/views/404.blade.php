@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Les Faïza donnent tres dificilement mais ont un grand coeur.
+                    Cherches un peu.<br /> A ton avis,<br /> ils sont comment?
                 </div>
 
                 {{-- <div class="links">

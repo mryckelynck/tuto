@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Cherches un peu.<br /> A ton avis,<br /> ils sont comment?
+                    Cherches un peu.<br /> A ton avis,<br />Que dire sur cette personne?
                 </div>
 
                 {{-- <div class="links">

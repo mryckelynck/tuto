@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Les Fayza donnent tres dificilement mais ont un grand coeur. 
+                    Les Faïza donnent tres dificilement mais ont un grand coeur.
                 </div>
 
                 <div class="links">
